@@ -70,7 +70,7 @@ footer {
   flex: 1 20rem;
 }
 
-/* products 
+/* products */
 .products {
   display: flex;
   flex-wrap: wrap;
@@ -120,7 +120,7 @@ footer {
 .button.primary {
   background-color: #f0c040;
 }
-/* Filter 
+/* Filter */
 .filter {
   display: flex;
   justify-content: space-between;
@@ -131,7 +131,7 @@ footer {
 .filter div {
   flex: 1;
 }
-/* Index.css 
+/* Index.css */
 .cart {
   padding: 1rem;
   margin: 1rem;
@@ -172,8 +172,8 @@ footer {
 .total > div,
 .total > button {
   flex: 1;
-}*/
-/* Checkout form 
+}
+/* Checkout form */
 form {
   width: 100%;
 }
@@ -190,8 +190,8 @@ form {
 input {
   padding: 1rem;
   border: 0.1rem #c0c0c0 solid;
-}*/
-/* Product Details 
+}
+/* Product Details */
 .product-details {
   display: flex;
   flex-wrap: wrap;
@@ -213,8 +213,8 @@ input {
   top: 2.5rem;
   z-index: 1000;
 }
-*/
-/* Order Details 
+
+/* Order Details */
 
 .order-details {
   display: flex;
@@ -238,8 +238,8 @@ input {
 .success-message {
   color: green;
 }
-*/
-/* Orders 
+
+/* Orders */
 .orders {
   width: 100%;
   padding: 10px;
@@ -253,4 +253,3 @@ td {
 th {
   text-align: left;
 }
-*/
